@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kon808
+- 👋 Hi, I’m @Paraschiz
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me kon808@protonmail.com
 - ⚡ Fun fact: Im paranoid
